@@ -1,4 +1,4 @@
-package com.akshit;
+package com.akshita;
 
 import javax.swing.*;
 import java.awt.*;
