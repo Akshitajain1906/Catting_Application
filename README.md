@@ -1,4 +1,4 @@
-# Catting_Application
+# Chatting_Application
 <!DOCTYPE html>
 <html>
 <head>
